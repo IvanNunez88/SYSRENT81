@@ -1,0 +1,303 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT.API/SYSRENT.API.csproj": {}
+  },
+  "projects": {
+    "/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT.API/SYSRENT.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT.API/SYSRENT.API.csproj",
+        "projectName": "SYSRENT.API",
+        "projectPath": "/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT.API/SYSRENT.API.csproj",
+        "packagesPath": "/Users/ivannunezfrayre/.nuget/packages/",
+        "outputPath": "/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT.API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ivannunezfrayre/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT.Application/SYSRENT.Application.csproj": {
+                "projectPath": "/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT.Application/SYSRENT.Application.csproj"
+              },
+              "/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT/SYSRENT.Infrastructure.csproj": {
+                "projectPath": "/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT/SYSRENT.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT.Application/SYSRENT.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT.Application/SYSRENT.Application.csproj",
+        "projectName": "SYSRENT.Application",
+        "projectPath": "/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT.Application/SYSRENT.Application.csproj",
+        "packagesPath": "/Users/ivannunezfrayre/.nuget/packages/",
+        "outputPath": "/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ivannunezfrayre/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT.Domain/SYSRENT.Domain.csproj": {
+                "projectPath": "/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT.Domain/SYSRENT.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[13.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT.Domain/SYSRENT.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT.Domain/SYSRENT.Domain.csproj",
+        "projectName": "SYSRENT.Domain",
+        "projectPath": "/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT.Domain/SYSRENT.Domain.csproj",
+        "packagesPath": "/Users/ivannunezfrayre/.nuget/packages/",
+        "outputPath": "/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ivannunezfrayre/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT/SYSRENT.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT/SYSRENT.Infrastructure.csproj",
+        "projectName": "SYSRENT.Infrastructure",
+        "projectPath": "/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT/SYSRENT.Infrastructure.csproj",
+        "packagesPath": "/Users/ivannunezfrayre/.nuget/packages/",
+        "outputPath": "/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ivannunezfrayre/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT.Application/SYSRENT.Application.csproj": {
+                "projectPath": "/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT.Application/SYSRENT.Application.csproj"
+              },
+              "/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT.Domain/SYSRENT.Domain.csproj": {
+                "projectPath": "/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT.Domain/SYSRENT.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.66, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[6.1.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

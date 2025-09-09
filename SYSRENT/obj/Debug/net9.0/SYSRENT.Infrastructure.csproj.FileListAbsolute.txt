@@ -1,0 +1,17 @@
+/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT/bin/Debug/net9.0/SYSRENT.Infrastructure.deps.json
+/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT/bin/Debug/net9.0/SYSRENT.Infrastructure.dll
+/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT/bin/Debug/net9.0/SYSRENT.Infrastructure.pdb
+/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT/bin/Debug/net9.0/SYSRENT.Application.dll
+/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT/bin/Debug/net9.0/SYSRENT.Domain.dll
+/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT/bin/Debug/net9.0/SYSRENT.Application.pdb
+/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT/bin/Debug/net9.0/SYSRENT.Domain.pdb
+/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT/obj/Debug/net9.0/SYSRENT.Infrastructure.csproj.AssemblyReference.cache
+/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT/obj/Debug/net9.0/SYSRENT.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT/obj/Debug/net9.0/SYSRENT.Infrastructure.AssemblyInfoInputs.cache
+/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT/obj/Debug/net9.0/SYSRENT.Infrastructure.AssemblyInfo.cs
+/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT/obj/Debug/net9.0/SYSRENT.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT/obj/Debug/net9.0/SYSRENT..FFC647EC.Up2Date
+/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT/obj/Debug/net9.0/SYSRENT.Infrastructure.dll
+/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT/obj/Debug/net9.0/refint/SYSRENT.Infrastructure.dll
+/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT/obj/Debug/net9.0/SYSRENT.Infrastructure.pdb
+/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT/obj/Debug/net9.0/ref/SYSRENT.Infrastructure.dll

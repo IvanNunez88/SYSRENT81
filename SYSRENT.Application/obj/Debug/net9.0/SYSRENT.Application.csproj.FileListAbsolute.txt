@@ -1,0 +1,15 @@
+/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT.Application/bin/Debug/net9.0/SYSRENT.Application.deps.json
+/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT.Application/bin/Debug/net9.0/SYSRENT.Application.dll
+/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT.Application/bin/Debug/net9.0/SYSRENT.Application.pdb
+/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT.Application/bin/Debug/net9.0/SYSRENT.Domain.dll
+/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT.Application/bin/Debug/net9.0/SYSRENT.Domain.pdb
+/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT.Application/obj/Debug/net9.0/SYSRENT.Application.csproj.AssemblyReference.cache
+/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT.Application/obj/Debug/net9.0/SYSRENT.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT.Application/obj/Debug/net9.0/SYSRENT.Application.AssemblyInfoInputs.cache
+/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT.Application/obj/Debug/net9.0/SYSRENT.Application.AssemblyInfo.cs
+/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT.Application/obj/Debug/net9.0/SYSRENT.Application.csproj.CoreCompileInputs.cache
+/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT.Application/obj/Debug/net9.0/SYSRENT..CF3BF93F.Up2Date
+/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT.Application/obj/Debug/net9.0/SYSRENT.Application.dll
+/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT.Application/obj/Debug/net9.0/refint/SYSRENT.Application.dll
+/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT.Application/obj/Debug/net9.0/SYSRENT.Application.pdb
+/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT.Application/obj/Debug/net9.0/ref/SYSRENT.Application.dll

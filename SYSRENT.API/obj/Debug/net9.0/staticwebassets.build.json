@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "EEowwNHku1E8i/uaaPirk3gq8I0rWjIfpBLPkepa6RY=",
+  "Source": "SYSRENT.API",
+  "BasePath": "_content/SYSRENT.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
