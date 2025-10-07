@@ -15,3 +15,4 @@
 /Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT/obj/Debug/net9.0/refint/SYSRENT.Infrastructure.dll
 /Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT/obj/Debug/net9.0/SYSRENT.Infrastructure.pdb
 /Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT/obj/Debug/net9.0/ref/SYSRENT.Infrastructure.dll
+/Users/ivannunezfrayre/Desktop/MAC/FACPYA/GPO81/SISTEMA RENTA/Back/SYSRENT/SYSRENT/obj/Debug/net9.0/SYSRENT.Infrastructure.sourcelink.json
