@@ -27,16 +27,16 @@ public class AddHorarioCommandHandler(IUnitOfWork _unitOfWork) : IRequestHandler
         {
             if (await _unitOfWork.HorarioRepository.AgregarHorario(request.Horario))
             {
-                rsp.Statu = true;
+                rsp.Status = true;
             }
             else
             {
-                rsp.Statu = false;
+                rsp.Status = false;
             }
         }
         else
         {
-            rsp.Statu = false;
+            rsp.Status = false;
             rsp.Msg = enuResultado.ToList()[0];
         }
 

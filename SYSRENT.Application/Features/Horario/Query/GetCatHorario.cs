@@ -20,12 +20,12 @@ public class GetCatHorarioQueryHandler(IUnitOfWork _unitOfWork) : IRequestHandle
 
         if (enuDatos.Any())
         {
-            rsp.Statu = true;
+            rsp.Status = true;
             rsp.Values = enuDatos;
         }
         else
         {
-            rsp.Statu = false;
+            rsp.Status = false;
             rsp.Msg = "No se encontro información";
         }
 
