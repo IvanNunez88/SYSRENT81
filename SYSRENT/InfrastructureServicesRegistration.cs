@@ -16,6 +16,7 @@ public static class InfrastructureServicesRegistration
         services.AddScoped<IUnitOfWork, UnitOfWork>();
         services.AddScoped<IHorarioRepository, HorarioRepository>();
         services.AddScoped<IVehiculoRepository, VehiculoRepository>();
+        services.AddScoped<ITamanoRepository, TamanoRepository>();
 
         return services;
     }
